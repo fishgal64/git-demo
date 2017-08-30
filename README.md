@@ -1,7 +1,5 @@
 Erin's Git Demo
 
-This is a test.
+This is a test. Uncommitted change.
 
 Another thought about git.
-
-Changes on my development branch.
