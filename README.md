@@ -1,14 +1,17 @@
 Erin's Git Demo
 
-This is a test.
+Ready to merge into master!
+
+This is a test. Uncommitted change.
 
 Another thought about git.
 
+Another dev commit.
+
 Changes on my development branch.
 
-Master change
+Master change Conflict 2
 
-Test Conflict 1
 
 NOAA FisheriesNOAANWFSC/AFSC LibraryNWFSC Homeportskip to 2nd navskip link content
 
