@@ -1,5 +1,7 @@
 Erin's Git Demo
 
+Ready to merge into master!
+
 This is a test. Uncommitted change.
 
 Another thought about git.
