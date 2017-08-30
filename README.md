@@ -8,4 +8,4 @@ Another dev commit.
 
 Changes on my development branch.
 
-Master change
+Master change Conflict 2
